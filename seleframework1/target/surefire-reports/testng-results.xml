@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="140274" started-at="2018-06-29T06:06:01Z" finished-at="2018-06-29T06:08:21Z">
+  <suite name="Suite" duration-ms="159798" started-at="2018-06-29T19:51:19Z" finished-at="2018-06-29T19:53:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="140274" started-at="2018-06-29T06:06:01Z" finished-at="2018-06-29T06:08:21Z">
+    <test name="Test" duration-ms="159798" started-at="2018-06-29T19:51:19Z" finished-at="2018-06-29T19:53:59Z">
       <class name="scripts.TestLogin">
-        <test-method status="PASS" signature="openApplication()[pri:0, instance:scripts.TestLogin@56aac163]" name="openApplication" is-config="true" duration-ms="102405" started-at="2018-06-29T06:06:01Z" finished-at="2018-06-29T06:07:43Z">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:scripts.TestLogin@56aac163]" name="openApplication" is-config="true" duration-ms="124034" started-at="2018-06-29T19:51:19Z" finished-at="2018-06-29T19:53:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApplication -->
-        <test-method status="PASS" signature="testlogin()[pri:0, instance:scripts.TestLogin@56aac163]" name="testlogin" duration-ms="29790" started-at="2018-06-29T06:07:43Z" finished-at="2018-06-29T06:08:13Z">
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:scripts.TestLogin@56aac163]" name="testlogin" duration-ms="27850" started-at="2018-06-29T19:53:23Z" finished-at="2018-06-29T19:53:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.TestLogin@56aac163]" name="closeApplication" is-config="true" duration-ms="7999" started-at="2018-06-29T06:08:13Z" finished-at="2018-06-29T06:08:21Z">
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.TestLogin@56aac163]" name="closeApplication" is-config="true" duration-ms="7834" started-at="2018-06-29T19:53:51Z" finished-at="2018-06-29T19:53:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
