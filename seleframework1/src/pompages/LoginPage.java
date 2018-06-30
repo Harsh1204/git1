@@ -11,7 +11,11 @@ public class LoginPage {
 	@FindBy(name="pwd")
 	WebElement pdTb;
 	@FindBy(id="loginButton")
+<<<<<<< HEAD
 	WebElement btn;
+=======
+	WebElement btn;//init
+>>>>>>> branch 'master' of https://github.com/Harsh1204/git1.git
 
 	public LoginPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);//f
