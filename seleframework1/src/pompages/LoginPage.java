@@ -14,7 +14,7 @@ public class LoginPage {
 	WebElement btn;
 
 	public LoginPage(WebDriver driver) {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(driver, this);//f
 		
 	}
 	public void setUsername(String un) {
