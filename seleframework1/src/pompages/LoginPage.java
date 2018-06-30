@@ -11,7 +11,7 @@ public class LoginPage {
 	@FindBy(name="pwd")
 	WebElement pdTb;
 	@FindBy(id="loginButton")
-	WebElement btn;//initialise the element
+	WebElement btn;
 
 	public LoginPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
